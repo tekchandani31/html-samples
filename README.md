@@ -1,2 +1,2 @@
 # html-samples
-Html web pages
+Html basic web page for registration form
